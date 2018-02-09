@@ -1,3 +1,6 @@
+// February 8th 2018
+// Heidi Clinger
+
 import java.util.Scanner;
 
 /**
